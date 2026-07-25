@@ -1,4 +1,4 @@
-У. name: Build SkyTalk APK
+name: Build SkyTalk APK
 
 on:
   push:
